@@ -1,0 +1,33 @@
+# core
+jupyter
+nbconvert
+ipykernel
+
+# notebook theme
+pretty-jupyter
+jupyterthemes
+
+# data sets
+pydataset
+nycflights13
+geodatasets
+
+# data import
+openpyxl
+xlrd
+requests
+
+# data manipulation
+numpy
+pandas
+geopandas
+
+# Modeling
+scipy
+scikit-learn
+
+# data visualization
+matplotlib
+seaborn
+plotnine
+plotly
